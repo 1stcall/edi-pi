@@ -2,6 +2,7 @@
 
 artifacts/*
 main.retry
+scratch/
 
 # pycharm files
 .idea/*
